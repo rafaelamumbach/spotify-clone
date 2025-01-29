@@ -9,7 +9,6 @@ Este projeto foi desenvolvido como parte da Imersão Dev Front End da Alura, ond
 - **Interface Responsiva:** Design adaptável para diferentes tamanhos de tela;
 - **Player de Música:** Simulação de um player de música funcional;
 - **Navegação Intuitiva:** Menu de navegação similar ao do Spotify;
-- **Integração com API:** (Opcional) Integração com uma API de música para buscar dados reais;
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -17,7 +16,6 @@ Este projeto foi desenvolvido como parte da Imersão Dev Front End da Alura, ond
 - **CSS3** (Flexbox, Grid, Animations)
 - **JavaScript** (ES6+)
 - **Git e GitHub** (Controle de versão)
-- **Figma** (Para design e prototipagem)
 
 ## 📦 Como Rodar o Projeto
 
