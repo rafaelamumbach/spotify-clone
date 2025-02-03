@@ -1,8 +1,8 @@
-# Spotify - Imersão Dev Front End
+# Spotify Clone - Imersão Dev Front End
 
 ## 🚀 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte da Imersão Dev Front End da Alura, onde exploramos conceitos de HTML, CSS e JavaScript para criar uma interface responsiva e interativa.
+Este projeto foi desenvolvido durante a Imersão Dev Front End da Alura, onde exploramos conceitos de HTML, CSS e JavaScript para criar uma interface responsiva e interativa.
 
 ### Funcionalidades
 
@@ -13,9 +13,10 @@ Este projeto foi desenvolvido como parte da Imersão Dev Front End da Alura, ond
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**
-- **CSS3** (Flexbox, Grid, Animations)
-- **JavaScript** (ES6+)
+- **CSS3** (Flexbox, Grid, Pseudoclasses, Responsividade e Media Queries)
+- **JavaScript** (Manipulação do DOM)
 - **Git e GitHub** (Controle de versão)
+- **React e Angular** (Frameworks e eficiência)
 
 ## 📦 Como Rodar o Projeto
 
