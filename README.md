@@ -1,4 +1,4 @@
-# Spotify Clone - Imersão Dev Front End
+# Spotify Clone - Imersão Dev Front End (Alura)
 
 ## 🚀 Sobre o Projeto
 
@@ -25,4 +25,4 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/rafaelamumbach/spotify.git
+   git clone https://github.com/rafaelamumbach/spotify-clone.git
