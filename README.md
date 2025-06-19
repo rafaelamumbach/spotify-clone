@@ -16,7 +16,6 @@ Este projeto foi desenvolvido durante a Imersão Dev Front End da Alura, onde ex
 - **CSS3** (Flexbox, Grid, Pseudoclasses, Responsividade e Media Queries)
 - **JavaScript** (Manipulação do DOM)
 - **Git e GitHub** (Controle de versão)
-- **React e Angular** (Frameworks e eficiência)
 
 ## 📦 Como Rodar o Projeto
 
